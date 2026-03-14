@@ -69,16 +69,16 @@ Admin dashboard interface
 ![Home](homepage.png)
 
 ### Admin Login
-![Admin](screenshots/admin-login.png)
+![Admin](admin-login.png)
 
 ### Need Blood Page
-![Need Blood](screenshots/need-blood.png)
+![Need Blood](need-blood.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### User Query
-![User Query](screenshots/user-query.png)
+![User Query](user-query.png)
 
 ---
 
