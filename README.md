@@ -66,7 +66,7 @@ Admin dashboard interface
 ## Screenshots
 
 ### Home Page
-![Home](screenshots/index.png)
+![Home](homepage.png)
 
 ### Admin Login
 ![Admin](screenshots/admin-login.png)
