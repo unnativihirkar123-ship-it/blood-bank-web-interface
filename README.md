@@ -7,6 +7,10 @@ This project implements the user interface of a Blood Bank and Donation Manageme
 The objective of this assignment is to analyze research-based systems and recreate the HTML output interfaces using web technologies.
 
 ---
+Student Name: Unnati Vihirkar.
+Roll no : C-224 & DWP-77
+
+Domain: Healthcare Information System
 
 ## Technologies Used
 
