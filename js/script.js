@@ -1,0 +1,1 @@
+alert("Blood Bank Management System Loaded");
