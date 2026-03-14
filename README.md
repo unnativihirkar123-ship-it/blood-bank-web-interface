@@ -85,3 +85,5 @@ Admin dashboard interface
 ## Conclusion
 
 This project successfully recreates the front-end interface of a Blood Bank and Donation Management System based on a research paper. The system demonstrates how web technologies can be used to design user-friendly interfaces for healthcare management applications.
+# Author
+Unnati Vihirkar ETC - C_224 & DWP- 77
